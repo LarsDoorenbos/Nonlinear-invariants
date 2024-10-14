@@ -2,7 +2,6 @@ data/
 output*/
 wandb/
 *.pt
-*.png
 *.sh
 *.eps
 *.pdf
