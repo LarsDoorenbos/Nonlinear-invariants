@@ -1,3 +1,14 @@
+data/
+output*/
+wandb/
+*.pt
+*.png
+*.sh
+*.eps
+*.pdf
+*.pth
+*.npy
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

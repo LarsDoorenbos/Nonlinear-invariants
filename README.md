@@ -2,7 +2,7 @@
 
 Code used for our paper ["Learning Non-Linear Invariants for Unsupervised Out-of-Distribution Detection"](https://arxiv.org/pdf/2407.04022), accepted at the European Conference on Computer Vision 2024.
 
-![Finding non-linear invariants](figures/ood.png "Finding non-linear invariants")
+![Finding non-linear invariants](figures/nlinvs.png "Finding non-linear invariants")
 
 This repository contains the code to train our volume-preserving networks for finding non-linear invariants.
 
