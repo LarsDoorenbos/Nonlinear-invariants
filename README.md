@@ -15,10 +15,12 @@ This repository contains the code to train our volume-preserving networks for fi
 If you find this work helpful, consider citing it using
 
 ```
-@article{doorenbos2024learning,
+@inproceedings{doorenbos2024learning,
   title={Learning non-linear invariants for unsupervised out-of-distribution detection},
   author={Doorenbos, Lars and Sznitman, Raphael and M{\'a}rquez-Neila, Pablo},
-  journal={arXiv preprint arXiv:2407.04022},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={310--327},
+  year={2024},
+  organization={Springer}
 }
 ```
